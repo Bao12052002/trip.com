@@ -1,0 +1,754 @@
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10558941-443633-141198. Item ID: 1014985501, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10558962-443633-141198. Item ID: 1605662731, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10558955-443633-141198. Item ID: 1523483851, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10558976-443633-141198. Item ID: 180817448, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10558969-443633-141198. Item ID: 1096985501, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10558948-443633-141198. Item ID: 163621937, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10558990-443633-141198. Item ID: 1068528741, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10558997-443633-141198. Item ID: 1769841611, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10558983-443633-141198. Item ID: 1827349861, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateStatus called for OTA Order ID: ctriptest-10559046-443633-141198. New Status: precanceled
+[2025-07-04 10:08:19] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateStatus called for OTA Order ID: ctriptest-10559039-443633-141198. New Status: precanceled
+[2025-07-04 10:08:19] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559004-443633-141198. Item ID: 1440941611, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559011-443633-141198. Item ID: 199013059, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559053-443633-141198. Item ID: 1597583851, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559060-443633-141198. Item ID: 1087762731, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559067-443633-141198. Item ID: 1076095501, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559074-443633-141198. Item ID: 129527448, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:08:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559081-443633-141198. Item ID: 1692549861, New Status: confirmed
+[2025-07-04 10:08:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:13:04] Attempting to update usage for OTA Order ID: ctriptest-10559074-443633-141198. New Status: partially-completed, New Used Quantity: 1
+[2025-07-04 10:13:04] Update execution result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559942-443668-141198. Item ID: 1403917621, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559935-443668-141198. Item ID: 1090938741, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559970-443668-141198. Item ID: 1016972731, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateStatus called for OTA Order ID: ctriptest-10560040-443668-141198. New Status: precanceled
+[2025-07-04 10:21:19] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559956-443668-141198. Item ID: 129691937, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559998-443668-141198. Item ID: 1479972731, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10560005-443668-141198. Item ID: 1070048741, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559977-443668-141198. Item ID: 1077995501, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10560075-443668-141198. Item ID: 1528061611, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559963-443668-141198. Item ID: 1544993851, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559991-443668-141198. Item ID: 1658959861, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10560047-443668-141198. Item ID: 1074006501, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10560068-443668-141198. Item ID: 1488082731, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10560054-443668-141198. Item ID: 123408448, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559949-443668-141198. Item ID: 114593059, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateStatus called for OTA Order ID: ctriptest-10560033-443668-141198. New Status: precanceled
+[2025-07-04 10:21:19] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10560012-443668-141198. Item ID: 1441027621, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10560061-443668-141198. Item ID: 1679069861, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10559984-443668-141198. Item ID: 127897448, New Status: confirmed
+[2025-07-04 10:21:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:21:39] Attempting to update usage for OTA Order ID: ctriptest-10560068-443668-141198. New Status: partially-completed, New Used Quantity: 1
+[2025-07-04 10:21:39] Update execution result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560355-443682-141198. Item ID: 1062427621, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560341-443682-141198. Item ID: 178322937, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560285-443682-141198: {"id":"660","ota_order_id":"ctriptest-10560285-443682-141198","supplier_order_id":"SUP_68674b108ee96","sequence_id":"202507041131284c110ac10b6b45bda4aac1adf78fa174","item_id":"1099348741","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:28"}
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560362-443682-141198. Item ID: 1026306501, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560383-443682-141198. Item ID: 1979482731, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560369-443682-141198. Item ID: 138522937, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560404-443682-141198. Item ID: 182822937, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560411-443682-141198. Item ID: 1561604851, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateStatus called for OTA Order ID: ctriptest-10560446-443682-141198. New Status: precanceled
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560481-443682-141198. Item ID: 1277527621, New Status: confirmed
+[2025-07-04 10:31:29] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560390-443682-141198. Item ID: 1092461611, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560418-443682-141198. Item ID: 1610527621, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560397-443682-141198. Item ID: 167138448, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560376-443682-141198. Item ID: 1046504851, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateStatus called for OTA Order ID: ctriptest-10560439-443682-141198. New Status: precanceled
+[2025-07-04 10:31:29] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560453-443682-141198. Item ID: 1389461611, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560425-443682-141198: {"id":"677","ota_order_id":"ctriptest-10560425-443682-141198","supplier_order_id":"SUP_68674b10c6363","sequence_id":"20250704113128eb2e30e6533e4010a8c94a5ae6a1555c","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"pending","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:28"}
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560460-443682-141198. Item ID: 104144059, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560467-443682-141198. Item ID: 1274769861, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560474-443682-141198. Item ID: 1636648741, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10560348-443682-141198. Item ID: 1278448741, New Status: confirmed
+[2025-07-04 10:31:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560292-443682-141198: {"id":"661","ota_order_id":"ctriptest-10560292-443682-141198","supplier_order_id":"SUP_68674b1095c8b","sequence_id":"202507041131284399accb66c046948142327fb04b7867","item_id":"1405327621","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:28"}
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560397-443682-141198: {"id":"672","ota_order_id":"ctriptest-10560397-443682-141198","supplier_order_id":"SUP_68674b10baf83","sequence_id":"202507041131283225a889cc954776a2fc7b37681c2ddd","item_id":"167138448","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:29"}
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560453-443682-141198: {"id":"676","ota_order_id":"ctriptest-10560453-443682-141198","supplier_order_id":"SUP_68674b10bf5a5","sequence_id":"202507041131286e116f274f284e7782b093af04ecfb35","item_id":"1389461611","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:29"}
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560432-443682-141198: {"id":"674","ota_order_id":"ctriptest-10560432-443682-141198","supplier_order_id":"SUP_68674b10bd86a","sequence_id":"20250704113128deabeb53b9a541c9a35c99de420f6570","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"pending","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:28"}
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560439-443682-141198: {"id":"675","ota_order_id":"ctriptest-10560439-443682-141198","supplier_order_id":"SUP_68674b10be1e8","sequence_id":"20250704113128419c4d8e75cf4c1dbfcdb9f70cce8872","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"precanceled","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:29"}
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560355-443682-141198: {"id":"663","ota_order_id":"ctriptest-10560355-443682-141198","supplier_order_id":"SUP_68674b10aaf50","sequence_id":"202507041131289b17c9e46bbc4bc199a4fbc3aafd262f","item_id":"1062427621","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:29"}
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560341-443682-141198: {"id":"662","ota_order_id":"ctriptest-10560341-443682-141198","supplier_order_id":"SUP_68674b109c214","sequence_id":"202507041131281f6bd37e2e37403cb070cd0d081455bb","item_id":"178322937","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:29"}
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560362-443682-141198: {"id":"665","ota_order_id":"ctriptest-10560362-443682-141198","supplier_order_id":"SUP_68674b10ae021","sequence_id":"202507041131281e7b9c64852241a58d2f34b54cab0595","item_id":"1026306501","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:29"}
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560446-443682-141198: {"id":"679","ota_order_id":"ctriptest-10560446-443682-141198","supplier_order_id":"SUP_68674b10c7d44","sequence_id":"20250704113128042d722e0c424544acbc0a2d302188ea","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"precanceled","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:29"}
+[2025-07-04 10:31:29] --- QueryOrder ---
+[2025-07-04 10:31:29] Data read from DB for OTA Order ID ctriptest-10560369-443682-141198: {"id":"667","ota_order_id":"ctriptest-10560369-443682-141198","supplier_order_id":"SUP_68674b10af515","sequence_id":"20250704113128bc372b70966a4acfbe7f675cbc8ea014","item_id":"138522937","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:29"}
+[2025-07-04 10:31:30] --- QueryOrder ---
+[2025-07-04 10:31:30] Data read from DB for OTA Order ID ctriptest-10560467-443682-141198: {"id":"680","ota_order_id":"ctriptest-10560467-443682-141198","supplier_order_id":"SUP_68674b10d17f0","sequence_id":"20250704113128690d2d92f1ee4902a8fc9afa4db594c8","item_id":"1274769861","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:29"}
+[2025-07-04 10:31:30] --- QueryOrder ---
+[2025-07-04 10:31:30] Data read from DB for OTA Order ID ctriptest-10560481-443682-141198: {"id":"671","ota_order_id":"ctriptest-10560481-443682-141198","supplier_order_id":"SUP_68674b10b9c54","sequence_id":"20250704113128fb93e1a20a1c418a82282ced340ad040","item_id":"1277527621","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:29"}
+[2025-07-04 10:31:30] --- QueryOrder ---
+[2025-07-04 10:31:30] Data read from DB for OTA Order ID ctriptest-10560348-443682-141198: {"id":"682","ota_order_id":"ctriptest-10560348-443682-141198","supplier_order_id":"SUP_68674b10f182d","sequence_id":"202507041131288c4827d0dd8e48ff93730e6c3975dfd2","item_id":"1278448741","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:31:29"}
+[2025-07-04 10:32:21] Attempting to update usage for OTA Order ID: ctriptest-10560474-443682-141198. New Status: partially-completed, New Used Quantity: 1
+[2025-07-04 10:32:21] Update execution result: Success. Rows affected: 1
+[2025-07-04 10:32:23] --- QueryOrder ---
+[2025-07-04 10:32:23] Data read from DB for OTA Order ID ctriptest-10560474-443682-141198: {"id":"681","ota_order_id":"ctriptest-10560474-443682-141198","supplier_order_id":"SUP_68674b10d4661","sequence_id":"202507041131287bcb75fbae244280b743d9b4d49c0274","item_id":"1636648741","plu":"AAR","quantity":"2","used_quantity":"1","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"","created_at":"2025-07-04 10:31:28","updated_at":"2025-07-04 10:32:21"}
+[2025-07-04 10:37:24] updateOrderOnPayment called for OTA Order ID: ctriptest-10560635-443689-141198. Item ID: 1552882731, New Status: confirmed
+[2025-07-04 10:37:24] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:24] updateOrderOnPayment called for OTA Order ID: ctriptest-10560663-443689-141198. Item ID: 1282948741, New Status: confirmed
+[2025-07-04 10:37:24] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:25] updateOrderOnPayment called for OTA Order ID: ctriptest-10560600-443689-141198. Item ID: 1000904851, New Status: confirmed
+[2025-07-04 10:37:25] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:25] updateOrderOnPayment called for OTA Order ID: ctriptest-10560628-443689-141198. Item ID: 1024904851, New Status: confirmed
+[2025-07-04 10:37:25] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:25] updateOrderOnPayment called for OTA Order ID: ctriptest-10560677-443689-141198. Item ID: 139064059, New Status: confirmed
+[2025-07-04 10:37:25] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:25] --- QueryOrder ---
+[2025-07-04 10:37:25] Data read from DB for OTA Order ID ctriptest-10560544-443689-141198: {"id":"687","ota_order_id":"ctriptest-10560544-443689-141198","supplier_order_id":"SUP_68674c7435144","sequence_id":"202507041137231629432cee8d412e8b79740724e1e80a","item_id":"1825627621","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-13","status":"confirmed","created_at":"2025-07-04 10:37:24","updated_at":"2025-07-04 10:37:24"}
+[2025-07-04 10:37:25] updateStatus called for OTA Order ID: ctriptest-10560698-443689-141198. New Status: precanceled
+[2025-07-04 10:37:25] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:37:25] updateOrderOnPayment called for OTA Order ID: ctriptest-10560656-443689-141198. Item ID: 1694079861, New Status: confirmed
+[2025-07-04 10:37:25] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:25] updateOrderOnPayment called for OTA Order ID: ctriptest-10560607-443689-141198. Item ID: 1482727621, New Status: confirmed
+[2025-07-04 10:37:25] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:25] updateOrderOnPayment called for OTA Order ID: ctriptest-10560740-443689-141198. Item ID: 1004706501, New Status: confirmed
+[2025-07-04 10:37:25] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:26] updateOrderOnPayment called for OTA Order ID: ctriptest-10560719-443689-141198. Item ID: 1405179861, New Status: confirmed
+[2025-07-04 10:37:26] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:26] updateOrderOnPayment called for OTA Order ID: ctriptest-10560614-443689-141198. Item ID: 1041606501, New Status: confirmed
+[2025-07-04 10:37:26] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:26] updateOrderOnPayment called for OTA Order ID: ctriptest-10560649-443689-141198. Item ID: 129158448, New Status: confirmed
+[2025-07-04 10:37:26] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:26] updateOrderOnPayment called for OTA Order ID: ctriptest-10560712-443689-141198. Item ID: 180464059, New Status: confirmed
+[2025-07-04 10:37:26] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:26] --- QueryOrder ---
+[2025-07-04 10:37:26] Data read from DB for OTA Order ID ctriptest-10560684-443689-141198: {"id":"696","ota_order_id":"ctriptest-10560684-443689-141198","supplier_order_id":"SUP_68674c750df47","sequence_id":"2025070411372359ec2e398b9f4d2f9914179a55d6a9d9","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-13","status":"pending","created_at":"2025-07-04 10:37:25","updated_at":"2025-07-04 10:37:25"}
+[2025-07-04 10:37:26] --- QueryOrder ---
+[2025-07-04 10:37:26] Data read from DB for OTA Order ID ctriptest-10560698-443689-141198: {"id":"691","ota_order_id":"ctriptest-10560698-443689-141198","supplier_order_id":"SUP_68674c747622c","sequence_id":"202507041137235bc2188c2ced4b97bbe4b8914521a89e","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-13","status":"precanceled","created_at":"2025-07-04 10:37:24","updated_at":"2025-07-04 10:37:25"}
+[2025-07-04 10:37:27] --- QueryOrder ---
+[2025-07-04 10:37:27] Data read from DB for OTA Order ID ctriptest-10560712-443689-141198: {"id":"697","ota_order_id":"ctriptest-10560712-443689-141198","supplier_order_id":"SUP_68674c751602a","sequence_id":"202507041137230e689f076e284a11886fed74a49151e5","item_id":"180464059","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-13","status":"confirmed","created_at":"2025-07-04 10:37:25","updated_at":"2025-07-04 10:37:26"}
+[2025-07-04 10:37:27] --- QueryOrder ---
+[2025-07-04 10:37:27] Data read from DB for OTA Order ID ctriptest-10560656-443689-141198: {"id":"686","ota_order_id":"ctriptest-10560656-443689-141198","supplier_order_id":"SUP_68674c7433f75","sequence_id":"2025070411372347ae64da1d7c445791b7ba932b69580a","item_id":"1694079861","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-13","status":"confirmed","created_at":"2025-07-04 10:37:24","updated_at":"2025-07-04 10:37:25"}
+[2025-07-04 10:37:27] updateOrderOnPayment called for OTA Order ID: ctriptest-10560726-443689-141198. Item ID: 1461058741, New Status: confirmed
+[2025-07-04 10:37:27] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:37:27] --- QueryOrder ---
+[2025-07-04 10:37:27] Data read from DB for OTA Order ID ctriptest-10560600-443689-141198: {"id":"683","ota_order_id":"ctriptest-10560600-443689-141198","supplier_order_id":"SUP_68674c741842a","sequence_id":"20250704113723cc13f8c29c2a4ed492b27e7e8cbe3db4","item_id":"1000904851","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-13","status":"confirmed","created_at":"2025-07-04 10:37:24","updated_at":"2025-07-04 10:37:25"}
+[2025-07-04 10:37:27] --- QueryOrder ---
+[2025-07-04 10:37:27] Data read from DB for OTA Order ID ctriptest-10560607-443689-141198: {"id":"694","ota_order_id":"ctriptest-10560607-443689-141198","supplier_order_id":"SUP_68674c74c5549","sequence_id":"202507041137234837e0d87c0b468999881f884a94c2dd","item_id":"1482727621","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-13","status":"confirmed","created_at":"2025-07-04 10:37:24","updated_at":"2025-07-04 10:37:25"}
+[2025-07-04 10:37:27] --- QueryOrder ---
+[2025-07-04 10:37:27] Data read from DB for OTA Order ID ctriptest-10560614-443689-141198: {"id":"685","ota_order_id":"ctriptest-10560614-443689-141198","supplier_order_id":"SUP_68674c742c2cc","sequence_id":"20250704113723ed49e75bcd324790b1e68c9f56a79664","item_id":"1041606501","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-13","status":"confirmed","created_at":"2025-07-04 10:37:24","updated_at":"2025-07-04 10:37:26"}
+[2025-07-04 10:37:28] --- QueryOrder ---
+[2025-07-04 10:37:28] Data read from DB for OTA Order ID ctriptest-10560726-443689-141198: {"id":"692","ota_order_id":"ctriptest-10560726-443689-141198","supplier_order_id":"SUP_68674c74a1ee6","sequence_id":"202507041137239ae8c3e83e634d10a9368611942962e7","item_id":"1461058741","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-13","status":"confirmed","created_at":"2025-07-04 10:37:24","updated_at":"2025-07-04 10:37:27"}
+[2025-07-04 10:37:30] --- QueryOrder ---
+[2025-07-04 10:37:30] Data read from DB for OTA Order ID ctriptest-10560740-443689-141198: {"id":"693","ota_order_id":"ctriptest-10560740-443689-141198","supplier_order_id":"SUP_68674c74acf51","sequence_id":"20250704113723b2c38462bd8e404ea1db1a7e8a5b833b","item_id":"1004706501","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-13","status":"confirmed","created_at":"2025-07-04 10:37:24","updated_at":"2025-07-04 10:37:25"}
+[2025-07-04 10:37:30] --- QueryOrder ---
+[2025-07-04 10:37:30] Data read from DB for OTA Order ID ctriptest-10560628-443689-141198: {"id":"684","ota_order_id":"ctriptest-10560628-443689-141198","supplier_order_id":"SUP_68674c74268ca","sequence_id":"202507041137232ce20fe24d0c4b548cdab9cf805ad186","item_id":"1024904851","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-13","status":"confirmed","created_at":"2025-07-04 10:37:24","updated_at":"2025-07-04 10:37:25"}
+[2025-07-04 10:38:19] --- QueryOrder ---
+[2025-07-04 10:38:19] Data read from DB for OTA Order ID ctriptest-10560803-443696-141198: {"id":"699","ota_order_id":"ctriptest-10560803-443696-141198","supplier_order_id":"SUP_68674caa943dd","sequence_id":"20250704113818bd7e53fbca0a4367b884085d9415b5b7","item_id":"1030806501","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:38:18","updated_at":"2025-07-04 10:38:18"}
+[2025-07-04 10:38:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10560992-443696-141198. Item ID: 182984059, New Status: confirmed
+[2025-07-04 10:38:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:19] --- QueryOrder ---
+[2025-07-04 10:38:19] Data read from DB for OTA Order ID ctriptest-10560943-443696-141198: {"id":"704","ota_order_id":"ctriptest-10560943-443696-141198","supplier_order_id":"SUP_68674caac3d75","sequence_id":"20250704113818dd7f2e91428c44c2a02d5e1bbff7f3b9","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"pending","created_at":"2025-07-04 10:38:18","updated_at":"2025-07-04 10:38:18"}
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560978-443696-141198. Item ID: 1417292731, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560887-443696-141198. Item ID: 1446037621, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560908-443696-141198. Item ID: 1825479861, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560929-443696-141198. Item ID: 116384059, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560894-443696-141198. Item ID: 1049806501, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560873-443696-141198. Item ID: 111162937, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560915-443696-141198. Item ID: 1018258741, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560901-443696-141198. Item ID: 190184059, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560999-443696-141198. Item ID: 1489579861, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560859-443696-141198. Item ID: 1944961611, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560936-443696-141198. Item ID: 125562937, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560866-443696-141198. Item ID: 149774059, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560922-443696-141198. Item ID: 1460137621, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateStatus called for OTA Order ID: ctriptest-10560957-443696-141198. New Status: precanceled
+[2025-07-04 10:38:20] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:38:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10560880-443696-141198. Item ID: 1002314851, New Status: confirmed
+[2025-07-04 10:38:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:21] updateStatus called for OTA Order ID: ctriptest-10560964-443696-141198. New Status: precanceled
+[2025-07-04 10:38:21] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:38:21] --- QueryOrder ---
+[2025-07-04 10:38:21] Data read from DB for OTA Order ID ctriptest-10560950-443696-141198: {"id":"703","ota_order_id":"ctriptest-10560950-443696-141198","supplier_order_id":"SUP_68674caabbcd1","sequence_id":"20250704113818353426d57cfa49a7b75d8de19f4a2ed7","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"pending","created_at":"2025-07-04 10:38:18","updated_at":"2025-07-04 10:38:18"}
+[2025-07-04 10:38:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10560985-443696-141198. Item ID: 1538071611, New Status: confirmed
+[2025-07-04 10:38:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10560971-443696-141198. Item ID: 1635579861, New Status: confirmed
+[2025-07-04 10:38:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:38:21] --- QueryOrder ---
+[2025-07-04 10:38:21] Data read from DB for OTA Order ID ctriptest-10560887-443696-141198: {"id":"708","ota_order_id":"ctriptest-10560887-443696-141198","supplier_order_id":"SUP_68674caaec8be","sequence_id":"202507041138184c0c179cd53e4b9e987dcb71f3945fbf","item_id":"1446037621","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:38:18","updated_at":"2025-07-04 10:38:20"}
+[2025-07-04 10:38:21] --- QueryOrder ---
+[2025-07-04 10:38:21] Data read from DB for OTA Order ID ctriptest-10560915-443696-141198: {"id":"702","ota_order_id":"ctriptest-10560915-443696-141198","supplier_order_id":"SUP_68674caab05bc","sequence_id":"20250704113818ed647d2b66f542e08abcf9bb23813a40","item_id":"1018258741","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:38:18","updated_at":"2025-07-04 10:38:20"}
+[2025-07-04 10:38:22] --- QueryOrder ---
+[2025-07-04 10:38:22] Data read from DB for OTA Order ID ctriptest-10560957-443696-141198: {"id":"720","ota_order_id":"ctriptest-10560957-443696-141198","supplier_order_id":"SUP_68674cabd0958","sequence_id":"202507041138185ce5f0f71380476fa8fe12b121a29cc3","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"precanceled","created_at":"2025-07-04 10:38:19","updated_at":"2025-07-04 10:38:20"}
+[2025-07-04 10:38:22] --- QueryOrder ---
+[2025-07-04 10:38:22] Data read from DB for OTA Order ID ctriptest-10560810-443696-141198: {"id":"714","ota_order_id":"ctriptest-10560810-443696-141198","supplier_order_id":"SUP_68674cab87ace","sequence_id":"202507041138188194bebf9fd4451a83964a599e59b36b","item_id":"108468448","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:38:19","updated_at":"2025-07-04 10:38:19"}
+[2025-07-04 10:38:23] --- QueryOrder ---
+[2025-07-04 10:38:23] Data read from DB for OTA Order ID ctriptest-10560971-443696-141198: {"id":"719","ota_order_id":"ctriptest-10560971-443696-141198","supplier_order_id":"SUP_68674cabcccb7","sequence_id":"202507041138182e80758c16014e64968472cfdaf4e08e","item_id":"1635579861","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:38:19","updated_at":"2025-07-04 10:38:21"}
+[2025-07-04 10:38:23] --- QueryOrder ---
+[2025-07-04 10:38:23] Data read from DB for OTA Order ID ctriptest-10560873-443696-141198: {"id":"700","ota_order_id":"ctriptest-10560873-443696-141198","supplier_order_id":"SUP_68674caaa16b8","sequence_id":"2025070411381890974d9ad72a4b54a73ad2fcb1ada1e0","item_id":"111162937","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:38:18","updated_at":"2025-07-04 10:38:20"}
+[2025-07-04 10:38:23] --- QueryOrder ---
+[2025-07-04 10:38:23] Data read from DB for OTA Order ID ctriptest-10560999-443696-141198: {"id":"705","ota_order_id":"ctriptest-10560999-443696-141198","supplier_order_id":"SUP_68674caad2e85","sequence_id":"20250704113818df3bcda90752418ea0b6055a2eb2c75f","item_id":"1489579861","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:38:18","updated_at":"2025-07-04 10:38:20"}
+[2025-07-04 10:38:23] --- QueryOrder ---
+[2025-07-04 10:38:23] Data read from DB for OTA Order ID ctriptest-10560964-443696-141198: {"id":"716","ota_order_id":"ctriptest-10560964-443696-141198","supplier_order_id":"SUP_68674cabb5efa","sequence_id":"202507041138187a803f630fc04879a49ce5af11c93994","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"precanceled","created_at":"2025-07-04 10:38:19","updated_at":"2025-07-04 10:38:21"}
+[2025-07-04 10:38:24] --- QueryOrder ---
+[2025-07-04 10:38:24] Data read from DB for OTA Order ID ctriptest-10560880-443696-141198: {"id":"713","ota_order_id":"ctriptest-10560880-443696-141198","supplier_order_id":"SUP_68674cab6f596","sequence_id":"20250704113818b126e685ae2846609d3d4f5cfb754329","item_id":"1002314851","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:38:19","updated_at":"2025-07-04 10:38:20"}
+[2025-07-04 10:38:24] --- QueryOrder ---
+[2025-07-04 10:38:24] Data read from DB for OTA Order ID ctriptest-10560985-443696-141198: {"id":"718","ota_order_id":"ctriptest-10560985-443696-141198","supplier_order_id":"SUP_68674cabcc9c4","sequence_id":"20250704113818783283c389794e37ac2259bdeb750541","item_id":"1538071611","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:38:19","updated_at":"2025-07-04 10:38:21"}
+[2025-07-04 10:38:24] --- QueryOrder ---
+[2025-07-04 10:38:24] Data read from DB for OTA Order ID ctriptest-10560859-443696-141198: {"id":"706","ota_order_id":"ctriptest-10560859-443696-141198","supplier_order_id":"SUP_68674caae893c","sequence_id":"202507041138188c65ddcf0b9a4fb09d7de0333bc58507","item_id":"1944961611","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:38:18","updated_at":"2025-07-04 10:38:20"}
+[2025-07-04 10:38:25] --- QueryOrder ---
+[2025-07-04 10:38:25] Data read from DB for OTA Order ID ctriptest-10560866-443696-141198: {"id":"712","ota_order_id":"ctriptest-10560866-443696-141198","supplier_order_id":"SUP_68674cab2457e","sequence_id":"20250704113818c3170c0b794d438690780f463afcc9d1","item_id":"149774059","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"confirmed","created_at":"2025-07-04 10:38:19","updated_at":"2025-07-04 10:38:20"}
+[2025-07-04 10:38:45] Attempting to update usage for OTA Order ID: ctriptest-10560992-443696-141198. New Status: partially-completed, New Used Quantity: 1
+[2025-07-04 10:38:45] Update execution result: Success. Rows affected: 1
+[2025-07-04 10:38:49] --- QueryOrder ---
+[2025-07-04 10:38:49] Data read from DB for OTA Order ID ctriptest-10560992-443696-141198: {"id":"710","ota_order_id":"ctriptest-10560992-443696-141198","supplier_order_id":"SUP_68674cab083c4","sequence_id":"202507041138184f62f7d228c64b63a2c52b6b028bf1cf","item_id":"182984059","plu":"AAR","quantity":"2","used_quantity":"1","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"","created_at":"2025-07-04 10:38:19","updated_at":"2025-07-04 10:38:45"}
+[2025-07-04 10:38:49] RECOVERY: status is empty. Recalculating from used_quantity.
+[2025-07-04 10:38:49] RECOVERY: Recalculated status to: partially-completed
+[2025-07-04 10:39:07] Attempting to update usage for OTA Order ID: ctriptest-10560908-443696-141198. New Status: completed, New Used Quantity: 2
+[2025-07-04 10:39:07] Update execution result: Success. Rows affected: 1
+[2025-07-04 10:39:08] --- QueryOrder ---
+[2025-07-04 10:39:08] Data read from DB for OTA Order ID ctriptest-10560908-443696-141198: {"id":"709","ota_order_id":"ctriptest-10560908-443696-141198","supplier_order_id":"SUP_68674cab02d0f","sequence_id":"2025070411381838b03f917aa74c76ba59e9f9b9647320","item_id":"1825479861","plu":"AAR","quantity":"2","used_quantity":"2","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"completed","created_at":"2025-07-04 10:38:19","updated_at":"2025-07-04 10:39:07"}
+[2025-07-04 10:42:38] updateOrderOnPayment called for OTA Order ID: ctriptest-10561139-443703-141198. Item ID: 1708492731, New Status: confirmed
+[2025-07-04 10:42:38] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:39] updateOrderOnPayment called for OTA Order ID: ctriptest-10561125-443703-141198. Item ID: 100098448, New Status: confirmed
+[2025-07-04 10:42:39] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:39] updateOrderOnPayment called for OTA Order ID: ctriptest-10561153-443703-141198. Item ID: 177305059, New Status: confirmed
+[2025-07-04 10:42:39] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10561167-443703-141198. Item ID: 1833658741, New Status: confirmed
+[2025-07-04 10:42:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10561188-443703-141198. Item ID: 161382937, New Status: confirmed
+[2025-07-04 10:42:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10561195-443703-141198. Item ID: 1529714851, New Status: confirmed
+[2025-07-04 10:42:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10561132-443703-141198. Item ID: 1211879861, New Status: confirmed
+[2025-07-04 10:42:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10561237-443703-141198. Item ID: 1448437621, New Status: confirmed
+[2025-07-04 10:42:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10561230-443703-141198. Item ID: 1054814851, New Status: confirmed
+[2025-07-04 10:42:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10561146-443703-141198. Item ID: 1606271611, New Status: confirmed
+[2025-07-04 10:42:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:40] updateStatus called for OTA Order ID: ctriptest-10561216-443703-141198. New Status: precanceled
+[2025-07-04 10:42:40] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:42:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10561251-443703-141198. Item ID: 180009448, New Status: confirmed
+[2025-07-04 10:42:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10561181-443703-141198. Item ID: 1018116501, New Status: confirmed
+[2025-07-04 10:42:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10561244-443703-141198. Item ID: 1044216501, New Status: confirmed
+[2025-07-04 10:42:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:41] updateOrderOnPayment called for OTA Order ID: ctriptest-10561258-443703-141198. Item ID: 1078814851, New Status: confirmed
+[2025-07-04 10:42:41] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:41] updateOrderOnPayment called for OTA Order ID: ctriptest-10561237-443703-141198. Item ID: 1448437621, New Status: confirmed
+[2025-07-04 10:42:41] updateOrderOnPayment result: Success. Rows affected: 0
+[2025-07-04 10:42:42] updateStatus called for OTA Order ID: ctriptest-10561125-443703-141198. New Status: canceled
+[2025-07-04 10:42:42] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:42:42] updateOrderOnPayment called for OTA Order ID: ctriptest-10561174-443703-141198. Item ID: 1880437621, New Status: confirmed
+[2025-07-04 10:42:42] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:42] updateOrderOnPayment called for OTA Order ID: ctriptest-10561160-443703-141198. Item ID: 102182937, New Status: confirmed
+[2025-07-04 10:42:42] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:44] updateStatus called for OTA Order ID: ctriptest-10561223-443703-141198. New Status: precanceled
+[2025-07-04 10:42:44] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:42:46] updateOrderOnPayment called for OTA Order ID: ctriptest-10561118-443703-141198. Item ID: 1081116501, New Status: confirmed
+[2025-07-04 10:42:46] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:42:46] updateStatus called for OTA Order ID: ctriptest-10561118-443703-141198. New Status: canceled
+[2025-07-04 10:42:46] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:56:16] Attempting to update usage for OTA Order ID: ctriptest-10561251-443703-141198. New Status: partially-completed, New Used Quantity: 1
+[2025-07-04 10:56:16] Update execution result: Success. Rows affected: 1
+[2025-07-04 10:56:25] --- QueryOrder ---
+[2025-07-04 10:56:25] Data read from DB for OTA Order ID ctriptest-10561251-443703-141198: {"id":"726","ota_order_id":"ctriptest-10561251-443703-141198","supplier_order_id":"SUP_68674daeab337","sequence_id":"2025070411423857807f0cd8404487803f9719dd593cf0","item_id":"180009448","plu":"AAR","quantity":"2","used_quantity":"1","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-14","status":"","created_at":"2025-07-04 10:42:38","updated_at":"2025-07-04 10:56:16"}
+[2025-07-04 10:58:29] --- QueryOrder ---
+[2025-07-04 10:58:29] Data read from DB for OTA Order ID ctriptest-10561321-443710-141198: {"id":"745","ota_order_id":"ctriptest-10561321-443710-141198","supplier_order_id":"SUP_6867516490c3d","sequence_id":"20250704115828b762522aff2d4c7aa4f6ee3d219b5022","item_id":"1631189861","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"confirmed","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:28"}
+[2025-07-04 10:58:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561377-443710-141198. Item ID: 193692937, New Status: confirmed
+[2025-07-04 10:58:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561391-443710-141198. Item ID: 1380892731, New Status: confirmed
+[2025-07-04 10:58:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561405-443710-141198. Item ID: 154625059, New Status: confirmed
+[2025-07-04 10:58:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561398-443710-141198. Item ID: 1089316501, New Status: confirmed
+[2025-07-04 10:58:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561419-443710-141198. Item ID: 1668958741, New Status: confirmed
+[2025-07-04 10:58:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561426-443710-141198. Item ID: 1211737621, New Status: confirmed
+[2025-07-04 10:58:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561510-443710-141198. Item ID: 1061489861, New Status: confirmed
+[2025-07-04 10:58:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateStatus called for OTA Order ID: ctriptest-10561482-443710-141198. New Status: precanceled
+[2025-07-04 10:58:29] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561489-443710-141198. Item ID: 1973671611, New Status: confirmed
+[2025-07-04 10:58:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateStatus called for OTA Order ID: ctriptest-10561475-443710-141198. New Status: precanceled
+[2025-07-04 10:58:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561517-443710-141198. Item ID: 1127992731, New Status: confirmed
+[2025-07-04 10:58:29] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561503-443710-141198. Item ID: 142029448, New Status: confirmed
+[2025-07-04 10:58:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:29] updateStatus called for OTA Order ID: ctriptest-10561377-443710-141198. New Status: canceled
+[2025-07-04 10:58:29] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:58:29] --- QueryOrder ---
+[2025-07-04 10:58:29] Data read from DB for OTA Order ID ctriptest-10561468-443710-141198: {"id":"760","ota_order_id":"ctriptest-10561468-443710-141198","supplier_order_id":"SUP_68675164ceeb2","sequence_id":"20250704115828d85e2f825c234b31812e2e097769d61f","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"pending","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:28"}
+[2025-07-04 10:58:29] --- QueryOrder ---
+[2025-07-04 10:58:29] Data read from DB for OTA Order ID ctriptest-10561489-443710-141198: {"id":"758","ota_order_id":"ctriptest-10561489-443710-141198","supplier_order_id":"SUP_68675164cd111","sequence_id":"20250704115828886ea529ce64459bab4d93c13ddaf3b2","item_id":"1973671611","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"confirmed","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:29"}
+[2025-07-04 10:58:29] --- QueryOrder ---
+[2025-07-04 10:58:29] Data read from DB for OTA Order ID ctriptest-10561377-443710-141198: {"id":"746","ota_order_id":"ctriptest-10561377-443710-141198","supplier_order_id":"SUP_68675164a08b8","sequence_id":"202507041158286aeee85ccb464d51a7b8108ebd491157","item_id":"193692937","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"canceled","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:29"}
+[2025-07-04 10:58:29] --- QueryOrder ---
+[2025-07-04 10:58:29] Data read from DB for OTA Order ID ctriptest-10561398-443710-141198: {"id":"750","ota_order_id":"ctriptest-10561398-443710-141198","supplier_order_id":"SUP_68675164b7eda","sequence_id":"20250704115828c43d687dde0d4843bd11d4585b180772","item_id":"1089316501","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"confirmed","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:29"}
+[2025-07-04 10:58:30] --- QueryOrder ---
+[2025-07-04 10:58:30] Data read from DB for OTA Order ID ctriptest-10561482-443710-141198: {"id":"761","ota_order_id":"ctriptest-10561482-443710-141198","supplier_order_id":"SUP_68675164d30b8","sequence_id":"202507041158286db991980425463592cdaab56da2cae8","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"precanceled","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:29"}
+[2025-07-04 10:58:35] updateOrderOnPayment called for OTA Order ID: ctriptest-10561447-443710-141198. Item ID: 1507124851, New Status: confirmed
+[2025-07-04 10:58:35] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:35] updateOrderOnPayment called for OTA Order ID: ctriptest-10561440-443710-141198. Item ID: 102519448, New Status: confirmed
+[2025-07-04 10:58:35] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:35] --- QueryOrder ---
+[2025-07-04 10:58:35] Data read from DB for OTA Order ID ctriptest-10561391-443710-141198: {"id":"749","ota_order_id":"ctriptest-10561391-443710-141198","supplier_order_id":"SUP_68675164b5b92","sequence_id":"2025070411582833bcd8db41c4470bb2416f85693c97dd","item_id":"1380892731","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"confirmed","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:29"}
+[2025-07-04 10:58:36] --- QueryOrder ---
+[2025-07-04 10:58:36] Data read from DB for OTA Order ID ctriptest-10561328-443710-141198: {"id":"764","ota_order_id":"ctriptest-10561328-443710-141198","supplier_order_id":"SUP_6867516b24c66","sequence_id":"20250704115828b3824d179d0743b5ad25808c0d633d8a","item_id":"1462792731","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"confirmed","created_at":"2025-07-04 10:58:35","updated_at":"2025-07-04 10:58:35"}
+[2025-07-04 10:58:36] --- QueryOrder ---
+[2025-07-04 10:58:36] Data read from DB for OTA Order ID ctriptest-10561475-443710-141198: {"id":"757","ota_order_id":"ctriptest-10561475-443710-141198","supplier_order_id":"SUP_68675164cc165","sequence_id":"20250704115828cc0e0c4b51bf4406be71beecc1c478d4","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"precanceled","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:29"}
+[2025-07-04 10:58:36] updateOrderOnPayment called for OTA Order ID: ctriptest-10561496-443710-141198. Item ID: 146435059, New Status: confirmed
+[2025-07-04 10:58:36] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:36] updateOrderOnPayment called for OTA Order ID: ctriptest-10561433-443710-141198. Item ID: 1033416501, New Status: confirmed
+[2025-07-04 10:58:36] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:36] updateOrderOnPayment called for OTA Order ID: ctriptest-10561454-443710-141198. Item ID: 1209892731, New Status: confirmed
+[2025-07-04 10:58:36] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:36] --- QueryOrder ---
+[2025-07-04 10:58:36] Data read from DB for OTA Order ID ctriptest-10561461-443710-141198: {"id":"766","ota_order_id":"ctriptest-10561461-443710-141198","supplier_order_id":"SUP_6867516c07b29","sequence_id":"2025070411582852198ef3f08740ba805dbb5c87c455a8","item_id":null,"plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"pending","created_at":"2025-07-04 10:58:36","updated_at":"2025-07-04 10:58:36"}
+[2025-07-04 10:58:36] updateOrderOnPayment called for OTA Order ID: ctriptest-10561496-443710-141198. Item ID: 146435059, New Status: confirmed
+[2025-07-04 10:58:36] updateOrderOnPayment result: Success. Rows affected: 0
+[2025-07-04 10:58:36] updateOrderOnPayment called for OTA Order ID: ctriptest-10561384-443710-141198. Item ID: 1067024851, New Status: confirmed
+[2025-07-04 10:58:36] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 10:58:36] --- QueryOrder ---
+[2025-07-04 10:58:36] Data read from DB for OTA Order ID ctriptest-10561433-443710-141198: {"id":"753","ota_order_id":"ctriptest-10561433-443710-141198","supplier_order_id":"SUP_68675164ba80e","sequence_id":"20250704115828cac9b1ab02ac476cb9acea5811d986af","item_id":"1033416501","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"confirmed","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:36"}
+[2025-07-04 10:58:37] --- QueryOrder ---
+[2025-07-04 10:58:37] Data read from DB for OTA Order ID ctriptest-10561405-443710-141198: {"id":"747","ota_order_id":"ctriptest-10561405-443710-141198","supplier_order_id":"SUP_68675164a9450","sequence_id":"20250704115828d4c972f1eac547e08cb941d83df0d972","item_id":"154625059","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"confirmed","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:29"}
+[2025-07-04 10:58:37] --- QueryOrder ---
+[2025-07-04 10:58:37] Data read from DB for OTA Order ID ctriptest-10561496-443710-141198: {"id":"755","ota_order_id":"ctriptest-10561496-443710-141198","supplier_order_id":"SUP_68675164c6b95","sequence_id":"202507041158282b8bd6979dd74524b8236fd505a30bcc","item_id":"146435059","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"confirmed","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:36"}
+[2025-07-04 10:58:37] --- QueryOrder ---
+[2025-07-04 10:58:37] Data read from DB for OTA Order ID ctriptest-10561503-443710-141198: {"id":"763","ota_order_id":"ctriptest-10561503-443710-141198","supplier_order_id":"SUP_68675164e4e0a","sequence_id":"202507041158288340c6c6d8db462785373f283891815c","item_id":"142029448","plu":"AAR","quantity":"1","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"partially-canceled","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:29"}
+[2025-07-04 10:58:37] updateStatus called for OTA Order ID: ctriptest-10561384-443710-141198. New Status: canceled
+[2025-07-04 10:58:37] updateStatus result: Success. Rows affected: 1
+[2025-07-04 10:58:38] --- QueryOrder ---
+[2025-07-04 10:58:38] Data read from DB for OTA Order ID ctriptest-10561384-443710-141198: {"id":"748","ota_order_id":"ctriptest-10561384-443710-141198","supplier_order_id":"SUP_68675164b5945","sequence_id":"20250704115828e47d0855cde54d3ebe902676d4f26962","item_id":"1067024851","plu":"AAR","quantity":"2","used_quantity":"0","original_quantity":"2","total_amount":"240.00","currency":null,"use_start_date":"2025-07-17","status":"canceled","created_at":"2025-07-04 10:58:28","updated_at":"2025-07-04 10:58:37"}
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561762-443717-141198. Item ID: 1034624851, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561643-443717-141198. Item ID: 1953103731, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561713-443717-141198. Item ID: 1348871611, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561671-443717-141198. Item ID: 1493368741, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561755-443717-141198. Item ID: 158223937, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateStatus called for OTA Order ID: ctriptest-10561734-443717-141198. New Status: precanceled
+[2025-07-04 11:05:50] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561685-443717-141198. Item ID: 156155059, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561678-443717-141198. Item ID: 1854871611, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561769-443717-141198. Item ID: 1822147621, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561776-443717-141198. Item ID: 1067716501, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561657-443717-141198. Item ID: 165239448, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561748-443717-141198. Item ID: 123755059, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10561699-443717-141198. Item ID: 1687368741, New Status: confirmed
+[2025-07-04 11:05:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:51] updateOrderOnPayment called for OTA Order ID: ctriptest-10561692-443717-141198. Item ID: 144813937, New Status: confirmed
+[2025-07-04 11:05:51] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:51] updateOrderOnPayment called for OTA Order ID: ctriptest-10561664-443717-141198. Item ID: 1426689861, New Status: confirmed
+[2025-07-04 11:05:51] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:51] updateOrderOnPayment called for OTA Order ID: ctriptest-10561706-443717-141198. Item ID: 1871203731, New Status: confirmed
+[2025-07-04 11:05:51] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:51] updateStatus called for OTA Order ID: ctriptest-10561741-443717-141198. New Status: precanceled
+[2025-07-04 11:05:51] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:05:52] updateOrderOnPayment called for OTA Order ID: ctriptest-10561755-443717-141198. Item ID: 158223937, New Status: confirmed
+[2025-07-04 11:05:52] updateOrderOnPayment result: Success. Rows affected: 0
+[2025-07-04 11:05:52] updateOrderOnPayment called for OTA Order ID: ctriptest-10561636-443717-141198. Item ID: 1045424851, New Status: confirmed
+[2025-07-04 11:05:52] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:05:53] updateOrderOnPayment called for OTA Order ID: ctriptest-10561650-443717-141198. Item ID: 1051871611, New Status: confirmed
+[2025-07-04 11:05:53] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:28] updateOrderOnPayment called for OTA Order ID: ctriptest-10561895-443724-141198. Item ID: 1047247621, New Status: confirmed
+[2025-07-04 11:07:28] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:29] updateStatus called for OTA Order ID: ctriptest-10562000-443724-141198. New Status: precanceled
+[2025-07-04 11:07:29] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:07:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561958-443724-141198. Item ID: 1694347621, New Status: confirmed
+[2025-07-04 11:07:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561916-443724-141198. Item ID: 1656099861, New Status: confirmed
+[2025-07-04 11:07:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10562021-443724-141198. Item ID: 1492868741, New Status: confirmed
+[2025-07-04 11:07:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10562028-443724-141198. Item ID: 1803281611, New Status: confirmed
+[2025-07-04 11:07:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10562014-443724-141198. Item ID: 1422299861, New Status: confirmed
+[2025-07-04 11:07:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10561902-443724-141198. Item ID: 1229081611, New Status: confirmed
+[2025-07-04 11:07:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10562014-443724-141198. Item ID: 1422299861, New Status: confirmed
+[2025-07-04 11:07:30] updateOrderOnPayment result: Success. Rows affected: 0
+[2025-07-04 11:07:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10562007-443724-141198. Item ID: 165069448, New Status: confirmed
+[2025-07-04 11:07:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10561951-443724-141198. Item ID: 1562924851, New Status: confirmed
+[2025-07-04 11:07:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10561909-443724-141198. Item ID: 127259448, New Status: confirmed
+[2025-07-04 11:07:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:31] updateOrderOnPayment called for OTA Order ID: ctriptest-10561937-443724-141198. Item ID: 133475059, New Status: confirmed
+[2025-07-04 11:07:31] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:31] updateOrderOnPayment called for OTA Order ID: ctriptest-10561923-443724-141198. Item ID: 1229668741, New Status: confirmed
+[2025-07-04 11:07:31] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:31] updateStatus called for OTA Order ID: ctriptest-10561993-443724-141198. New Status: precanceled
+[2025-07-04 11:07:31] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:07:31] updateOrderOnPayment called for OTA Order ID: ctriptest-10561965-443724-141198. Item ID: 1056916501, New Status: confirmed
+[2025-07-04 11:07:31] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:31] updateOrderOnPayment called for OTA Order ID: ctriptest-10561930-443724-141198. Item ID: 1061347621, New Status: confirmed
+[2025-07-04 11:07:31] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:31] updateOrderOnPayment called for OTA Order ID: ctriptest-10562035-443724-141198. Item ID: 151385059, New Status: confirmed
+[2025-07-04 11:07:31] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:32] updateOrderOnPayment called for OTA Order ID: ctriptest-10561944-443724-141198. Item ID: 180633937, New Status: confirmed
+[2025-07-04 11:07:32] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:07:33] updateOrderOnPayment called for OTA Order ID: ctriptest-10561972-443724-141198. Item ID: 167759448, New Status: confirmed
+[2025-07-04 11:07:33] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10562707-443745-141198. Item ID: 1506044851, New Status: confirmed
+[2025-07-04 11:13:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10562679-443745-141198. Item ID: 1728413731, New Status: confirmed
+[2025-07-04 11:13:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10562791-443745-141198. Item ID: 182320548, New Status: confirmed
+[2025-07-04 11:13:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10562749-443745-141198. Item ID: 1932091611, New Status: confirmed
+[2025-07-04 11:13:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10562798-443745-141198. Item ID: 1079144851, New Status: confirmed
+[2025-07-04 11:13:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10562784-443745-141198. Item ID: 1048726501, New Status: confirmed
+[2025-07-04 11:13:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateStatus called for OTA Order ID: ctriptest-10562770-443745-141198. New Status: precanceled
+[2025-07-04 11:13:20] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10562735-443745-141198. Item ID: 1067300961, New Status: confirmed
+[2025-07-04 11:13:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10562693-443745-141198. Item ID: 173246059, New Status: confirmed
+[2025-07-04 11:13:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10562805-443745-141198. Item ID: 1072978741, New Status: confirmed
+[2025-07-04 11:13:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10562714-443745-141198. Item ID: 1282513731, New Status: confirmed
+[2025-07-04 11:13:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10562672-443745-141198. Item ID: 1257200961, New Status: confirmed
+[2025-07-04 11:13:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:21] updateStatus called for OTA Order ID: ctriptest-10562679-443745-141198. New Status: canceled
+[2025-07-04 11:13:21] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:13:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10562812-443745-141198. Item ID: 1447357621, New Status: confirmed
+[2025-07-04 11:13:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10562791-443745-141198. Item ID: 182320548, New Status: confirmed
+[2025-07-04 11:13:21] updateOrderOnPayment result: Success. Rows affected: 0
+[2025-07-04 11:13:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10562700-443745-141198. Item ID: 100610548, New Status: confirmed
+[2025-07-04 11:13:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10562686-443745-141198. Item ID: 1645981611, New Status: confirmed
+[2025-07-04 11:13:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10562742-443745-141198. Item ID: 1883878741, New Status: confirmed
+[2025-07-04 11:13:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:21] updateStatus called for OTA Order ID: ctriptest-10562777-443745-141198. New Status: precanceled
+[2025-07-04 11:13:21] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:13:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10562721-443745-141198. Item ID: 1139981611, New Status: confirmed
+[2025-07-04 11:13:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10562728-443745-141198. Item ID: 142810548, New Status: confirmed
+[2025-07-04 11:13:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:13:22] updateStatus called for OTA Order ID: ctriptest-10562672-443745-141198. New Status: canceled
+[2025-07-04 11:13:22] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:18:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10562959-443752-141198. Item ID: 1624188741, New Status: confirmed
+[2025-07-04 11:18:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10562987-443752-141198. Item ID: 1508444851, New Status: confirmed
+[2025-07-04 11:18:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10563071-443752-141198. Item ID: 1017036501, New Status: confirmed
+[2025-07-04 11:18:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10562952-443752-141198. Item ID: 146604937, New Status: confirmed
+[2025-07-04 11:18:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10562980-443752-141198. Item ID: 104830548, New Status: confirmed
+[2025-07-04 11:18:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:29] updateOrderOnPayment called for OTA Order ID: ctriptest-10562973-443752-141198. Item ID: 1037926501, New Status: confirmed
+[2025-07-04 11:18:29] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10562945-443752-141198. Item ID: 150566059, New Status: confirmed
+[2025-07-04 11:18:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10563043-443752-141198. Item ID: 178376059, New Status: confirmed
+[2025-07-04 11:18:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10563064-443752-141198. Item ID: 1867657621, New Status: confirmed
+[2025-07-04 11:18:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10563057-443752-141198. Item ID: 1897288741, New Status: confirmed
+[2025-07-04 11:18:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10563001-443752-141198. Item ID: 1310913731, New Status: confirmed
+[2025-07-04 11:18:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10562938-443752-141198. Item ID: 1813291611, New Status: confirmed
+[2025-07-04 11:18:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateStatus called for OTA Order ID: ctriptest-10563029-443752-141198. New Status: precanceled
+[2025-07-04 11:18:30] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10562994-443752-141198. Item ID: 1229813731, New Status: confirmed
+[2025-07-04 11:18:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10562931-443752-141198. Item ID: 1430188741, New Status: confirmed
+[2025-07-04 11:18:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10563008-443752-141198. Item ID: 1080036501, New Status: confirmed
+[2025-07-04 11:18:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateStatus called for OTA Order ID: ctriptest-10563071-443752-141198. New Status: canceled
+[2025-07-04 11:18:30] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateStatus called for OTA Order ID: ctriptest-10563036-443752-141198. New Status: precanceled
+[2025-07-04 11:18:30] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:18:30] updateOrderOnPayment called for OTA Order ID: ctriptest-10563050-443752-141198. Item ID: 105314937, New Status: confirmed
+[2025-07-04 11:18:30] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:31] updateStatus called for OTA Order ID: ctriptest-10562938-443752-141198. New Status: canceled
+[2025-07-04 11:18:31] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:18:31] updateStatus called for OTA Order ID: ctriptest-10562931-443752-141198. New Status: canceled
+[2025-07-04 11:18:31] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:18:32] updateOrderOnPayment called for OTA Order ID: ctriptest-10562966-443752-141198. Item ID: 1295557621, New Status: confirmed
+[2025-07-04 11:18:32] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:18:32] updateOrderOnPayment called for OTA Order ID: ctriptest-10563050-443752-141198. Item ID: 105314937, New Status: confirmed
+[2025-07-04 11:18:32] updateOrderOnPayment result: Success. Rows affected: 0
+[2025-07-04 11:20:09] updateOrderOnPayment called for OTA Order ID: ctriptest-10563260-443759-141198. Item ID: 1006236501, New Status: confirmed
+[2025-07-04 11:20:09] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:10] updateOrderOnPayment called for OTA Order ID: ctriptest-10563330-443759-141198. Item ID: 104660548, New Status: confirmed
+[2025-07-04 11:20:10] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:10] updateOrderOnPayment called for OTA Order ID: ctriptest-10563239-443759-141198. Item ID: 1428110961, New Status: confirmed
+[2025-07-04 11:20:10] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:10] updateOrderOnPayment called for OTA Order ID: ctriptest-10563232-443759-141198. Item ID: 188096059, New Status: confirmed
+[2025-07-04 11:20:10] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:10] updateOrderOnPayment called for OTA Order ID: ctriptest-10563246-443759-141198. Item ID: 1444588741, New Status: confirmed
+[2025-07-04 11:20:10] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:10] updateOrderOnPayment called for OTA Order ID: ctriptest-10563197-443759-141198. Item ID: 137786059, New Status: confirmed
+[2025-07-04 11:20:10] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:10] updateOrderOnPayment called for OTA Order ID: ctriptest-10563309-443759-141198. Item ID: 1623688741, New Status: confirmed
+[2025-07-04 11:20:10] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:10] updateOrderOnPayment called for OTA Order ID: ctriptest-10563211-443759-141198. Item ID: 1673110961, New Status: confirmed
+[2025-07-04 11:20:10] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:10] updateOrderOnPayment called for OTA Order ID: ctriptest-10563225-443759-141198. Item ID: 1574591611, New Status: confirmed
+[2025-07-04 11:20:10] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:11] updateOrderOnPayment called for OTA Order ID: ctriptest-10563316-443759-141198. Item ID: 1297957621, New Status: confirmed
+[2025-07-04 11:20:11] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:11] updateOrderOnPayment called for OTA Order ID: ctriptest-10563218-443759-141198. Item ID: 1438123731, New Status: confirmed
+[2025-07-04 11:20:11] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:11] updateOrderOnPayment called for OTA Order ID: ctriptest-10563253-443759-141198. Item ID: 1630957621, New Status: confirmed
+[2025-07-04 11:20:11] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:11] updateOrderOnPayment called for OTA Order ID: ctriptest-10563309-443759-141198. Item ID: 1623688741, New Status: confirmed
+[2025-07-04 11:20:11] updateOrderOnPayment result: Success. Rows affected: 0
+[2025-07-04 11:20:11] updateStatus called for OTA Order ID: ctriptest-10563197-443759-141198. New Status: canceled
+[2025-07-04 11:20:11] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:20:11] updateOrderOnPayment called for OTA Order ID: ctriptest-10563190-443759-141198. Item ID: 1082857621, New Status: confirmed
+[2025-07-04 11:20:11] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:11] updateStatus called for OTA Order ID: ctriptest-10563295-443759-141198. New Status: precanceled
+[2025-07-04 11:20:11] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:20:12] updateStatus called for OTA Order ID: ctriptest-10563330-443759-141198. New Status: canceled
+[2025-07-04 11:20:12] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:20:12] updateStatus called for OTA Order ID: ctriptest-10563190-443759-141198. New Status: canceled
+[2025-07-04 11:20:12] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:20:12] updateOrderOnPayment called for OTA Order ID: ctriptest-10563323-443759-141198. Item ID: 1032336501, New Status: confirmed
+[2025-07-04 11:20:12] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:20:12] updateOrderOnPayment called for OTA Order ID: ctriptest-10563302-443759-141198. Item ID: 141134937, New Status: confirmed
+[2025-07-04 11:20:12] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:49] updateOrderOnPayment called for OTA Order ID: ctriptest-10563568-443766-141198. Item ID: 1842991611, New Status: confirmed
+[2025-07-04 11:24:49] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:49] updateOrderOnPayment called for OTA Order ID: ctriptest-10563477-443766-141198. Item ID: 1077436501, New Status: confirmed
+[2025-07-04 11:24:49] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:49] updateOrderOnPayment called for OTA Order ID: ctriptest-10563470-443766-141198. Item ID: 1011523731, New Status: confirmed
+[2025-07-04 11:24:49] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10563484-443766-141198. Item ID: 127870548, New Status: confirmed
+[2025-07-04 11:24:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10563498-443766-141198. Item ID: 1474523731, New Status: confirmed
+[2025-07-04 11:24:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:50] updateStatus called for OTA Order ID: ctriptest-10563554-443766-141198. New Status: precanceled
+[2025-07-04 11:24:50] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:24:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10563449-443766-141198. Item ID: 114017059, New Status: confirmed
+[2025-07-04 11:24:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10563519-443766-141198. Item ID: 133644937, New Status: confirmed
+[2025-07-04 11:24:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10563575-443766-141198. Item ID: 157127059, New Status: confirmed
+[2025-07-04 11:24:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:50] updateOrderOnPayment called for OTA Order ID: ctriptest-10563561-443766-141198. Item ID: 1458988741, New Status: confirmed
+[2025-07-04 11:24:50] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:50] updateStatus called for OTA Order ID: ctriptest-10563547-443766-141198. New Status: precanceled
+[2025-07-04 11:24:50] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:24:51] updateOrderOnPayment called for OTA Order ID: ctriptest-10563589-443766-141198. Item ID: 1642098741, New Status: confirmed
+[2025-07-04 11:24:51] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:51] updateOrderOnPayment called for OTA Order ID: ctriptest-10563582-443766-141198. Item ID: 147054937, New Status: confirmed
+[2025-07-04 11:24:51] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:51] updateOrderOnPayment called for OTA Order ID: ctriptest-10563568-443766-141198. Item ID: 1842991611, New Status: confirmed
+[2025-07-04 11:24:51] updateOrderOnPayment result: Success. Rows affected: 0
+[2025-07-04 11:24:51] updateOrderOnPayment called for OTA Order ID: ctriptest-10563456-443766-141198. Item ID: 129144937, New Status: confirmed
+[2025-07-04 11:24:51] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:51] updateOrderOnPayment called for OTA Order ID: ctriptest-10563526-443766-141198. Item ID: 1098254851, New Status: confirmed
+[2025-07-04 11:24:51] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:51] updateOrderOnPayment called for OTA Order ID: ctriptest-10563463-443766-141198. Item ID: 1549154851, New Status: confirmed
+[2025-07-04 11:24:51] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:52] updateStatus called for OTA Order ID: ctriptest-10563456-443766-141198. New Status: canceled
+[2025-07-04 11:24:52] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:24:53] updateOrderOnPayment called for OTA Order ID: ctriptest-10563491-443766-141198. Item ID: 1658510961, New Status: confirmed
+[2025-07-04 11:24:53] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:53] updateOrderOnPayment called for OTA Order ID: ctriptest-10563505-443766-141198. Item ID: 1060267621, New Status: confirmed
+[2025-07-04 11:24:53] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:53] updateOrderOnPayment called for OTA Order ID: ctriptest-10563512-443766-141198. Item ID: 1021536501, New Status: confirmed
+[2025-07-04 11:24:53] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:24:53] updateStatus called for OTA Order ID: ctriptest-10563449-443766-141198. New Status: canceled
+[2025-07-04 11:24:53] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:53:29] Attempting to update usage for OTA Order ID: ctriptest-10563841-443773-141198. New Status: partially-completed, New Used Quantity: 1
+[2025-07-04 11:53:29] Update execution result: Success. Rows affected: 1
+[2025-07-04 11:54:49] updateOrderOnPayment called for OTA Order ID: ctriptest-10564184-443787-141198. Item ID: 1449620961, New Status: confirmed
+[2025-07-04 11:54:49] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:54:49] updateOrderOnPayment called for OTA Order ID: ctriptest-10564191-443787-141198. Item ID: 1476898741, New Status: confirmed
+[2025-07-04 11:54:49] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:18] updateOrderOnPayment called for OTA Order ID: ctriptest-10564436-443794-141198. Item ID: 1679030961, New Status: confirmed
+[2025-07-04 11:56:18] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10564527-443794-141198. Item ID: 198615937, New Status: confirmed
+[2025-07-04 11:56:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10564422-443794-141198. Item ID: 1246802611, New Status: confirmed
+[2025-07-04 11:56:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:19] updateOrderOnPayment called for OTA Order ID: ctriptest-10564429-443794-141198. Item ID: 123451548, New Status: confirmed
+[2025-07-04 11:56:19] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10564478-443794-141198. Item ID: 1637377621, New Status: confirmed
+[2025-07-04 11:56:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10564415-443794-141198. Item ID: 1593733731, New Status: confirmed
+[2025-07-04 11:56:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10564408-443794-141198. Item ID: 1021664851, New Status: confirmed
+[2025-07-04 11:56:20] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:20] updateOrderOnPayment called for OTA Order ID: ctriptest-10564527-443794-141198. Item ID: 198615937, New Status: confirmed
+[2025-07-04 11:56:20] updateOrderOnPayment result: Success. Rows affected: 0
+[2025-07-04 11:56:20] updateStatus called for OTA Order ID: ctriptest-10564506-443794-141198. New Status: precanceled
+[2025-07-04 11:56:20] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:56:21] updateStatus called for OTA Order ID: ctriptest-10564408-443794-141198. New Status: canceled
+[2025-07-04 11:56:21] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:56:21] updateStatus called for OTA Order ID: ctriptest-10564415-443794-141198. New Status: canceled
+[2025-07-04 11:56:21] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:56:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10564548-443794-141198. Item ID: 1084546501, New Status: confirmed
+[2025-07-04 11:56:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10564485-443794-141198. Item ID: 1058446501, New Status: confirmed
+[2025-07-04 11:56:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10564541-443794-141198. Item ID: 1330933731, New Status: confirmed
+[2025-07-04 11:56:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10564443-443794-141198. Item ID: 1202209741, New Status: confirmed
+[2025-07-04 11:56:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10564457-443794-141198. Item ID: 131108059, New Status: confirmed
+[2025-07-04 11:56:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10564450-443794-141198. Item ID: 1004377621, New Status: confirmed
+[2025-07-04 11:56:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:21] updateStatus called for OTA Order ID: ctriptest-10564513-443794-141198. New Status: precanceled
+[2025-07-04 11:56:21] updateStatus result: Success. Rows affected: 1
+[2025-07-04 11:56:21] updateOrderOnPayment called for OTA Order ID: ctriptest-10564464-443794-141198. Item ID: 184215937, New Status: confirmed
+[2025-07-04 11:56:21] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:22] updateOrderOnPayment called for OTA Order ID: ctriptest-10564471-443794-141198. Item ID: 1560764851, New Status: confirmed
+[2025-07-04 11:56:22] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:22] updateOrderOnPayment called for OTA Order ID: ctriptest-10564534-443794-141198. Item ID: 1010864851, New Status: confirmed
+[2025-07-04 11:56:22] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 11:56:23] updateOrderOnPayment called for OTA Order ID: ctriptest-10564520-443794-141198. Item ID: 1002546501, New Status: confirmed
+[2025-07-04 11:56:23] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:13:02] Attempting to update usage for OTA Order ID: ctriptest-10564541-443794-141198. New Status: partially-completed, New Used Quantity: 1
+[2025-07-04 12:13:02] Update execution result: Success. Rows affected: 1
+[2025-07-04 12:13:16] Attempting to update usage for OTA Order ID: ctriptest-10564541-443794-141198. New Status: completed, New Used Quantity: 2
+[2025-07-04 12:13:16] Update execution result: Success. Rows affected: 1
+[2025-07-04 12:13:53] Attempting to update usage for OTA Order ID: ctriptest-10564457-443794-141198. New Status: completed, New Used Quantity: 2
+[2025-07-04 12:13:53] Update execution result: Success. Rows affected: 1
+[2025-07-04 12:20:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10564863-443808-141198. Item ID: 1036846501, New Status: confirmed
+[2025-07-04 12:20:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10564856-443808-141198. Item ID: 1272877621, New Status: confirmed
+[2025-07-04 12:20:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:40] updateOrderOnPayment called for OTA Order ID: ctriptest-10564877-443808-141198. Item ID: 1551374851, New Status: confirmed
+[2025-07-04 12:20:40] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:41] updateOrderOnPayment called for OTA Order ID: ctriptest-10564884-443808-141198. Item ID: 1294343731, New Status: confirmed
+[2025-07-04 12:20:41] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:41] updateStatus called for OTA Order ID: ctriptest-10564940-443808-141198. New Status: precanceled
+[2025-07-04 12:20:41] updateStatus result: Success. Rows affected: 1
+[2025-07-04 12:20:41] updateOrderOnPayment called for OTA Order ID: ctriptest-10564975-443808-141198. Item ID: 1056909741, New Status: confirmed
+[2025-07-04 12:20:41] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:41] updateOrderOnPayment called for OTA Order ID: ctriptest-10564919-443808-141198. Item ID: 1820977621, New Status: confirmed
+[2025-07-04 12:20:41] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:41] updateOrderOnPayment called for OTA Order ID: ctriptest-10564961-443808-141198. Item ID: 194648059, New Status: confirmed
+[2025-07-04 12:20:41] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:41] updateOrderOnPayment called for OTA Order ID: ctriptest-10564954-443808-141198. Item ID: 1494412611, New Status: confirmed
+[2025-07-04 12:20:41] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:42] updateOrderOnPayment called for OTA Order ID: ctriptest-10564842-443808-141198. Item ID: 149835937, New Status: confirmed
+[2025-07-04 12:20:42] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:42] updateOrderOnPayment called for OTA Order ID: ctriptest-10564898-443808-141198. Item ID: 148191548, New Status: confirmed
+[2025-07-04 12:20:42] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:42] updateStatus called for OTA Order ID: ctriptest-10564842-443808-141198. New Status: canceled
+[2025-07-04 12:20:42] updateStatus result: Success. Rows affected: 1
+[2025-07-04 12:20:42] updateOrderOnPayment called for OTA Order ID: ctriptest-10564968-443808-141198. Item ID: 1884930961, New Status: confirmed
+[2025-07-04 12:20:42] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:42] updateStatus called for OTA Order ID: ctriptest-10564947-443808-141198. New Status: precanceled
+[2025-07-04 12:20:42] updateStatus result: Success. Rows affected: 1
+[2025-07-04 12:20:43] updateOrderOnPayment called for OTA Order ID: ctriptest-10564905-443808-141198. Item ID: 153345937, New Status: confirmed
+[2025-07-04 12:20:43] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:43] updateOrderOnPayment called for OTA Order ID: ctriptest-10564891-443808-141198. Item ID: 1108312611, New Status: confirmed
+[2025-07-04 12:20:43] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:43] updateOrderOnPayment called for OTA Order ID: ctriptest-10564982-443808-141198. Item ID: 1487977621, New Status: confirmed
+[2025-07-04 12:20:43] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:43] updateOrderOnPayment called for OTA Order ID: ctriptest-10564870-443808-141198. Item ID: 106981548, New Status: confirmed
+[2025-07-04 12:20:43] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:43] updateOrderOnPayment called for OTA Order ID: ctriptest-10564912-443808-141198. Item ID: 1086374851, New Status: confirmed
+[2025-07-04 12:20:43] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:44] updateOrderOnPayment called for OTA Order ID: ctriptest-10564961-443808-141198. Item ID: 194648059, New Status: confirmed
+[2025-07-04 12:20:44] updateOrderOnPayment result: Success. Rows affected: 0
+[2025-07-04 12:20:45] updateOrderOnPayment called for OTA Order ID: ctriptest-10564849-443808-141198. Item ID: 1688709741, New Status: confirmed
+[2025-07-04 12:20:45] updateOrderOnPayment result: Success. Rows affected: 1
+[2025-07-04 12:20:46] updateStatus called for OTA Order ID: ctriptest-10564849-443808-141198. New Status: canceled
+[2025-07-04 12:20:46] updateStatus result: Success. Rows affected: 1
+[2025-07-04 12:20:57] Attempting to update usage for OTA Order ID: ctriptest-10564975-443808-141198. New Status: partially-completed, New Used Quantity: 1
+[2025-07-04 12:20:57] Update execution result: Success. Rows affected: 1

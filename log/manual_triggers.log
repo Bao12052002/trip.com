@@ -1,0 +1,46 @@
+[2025-07-04 09:28:21] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10555574-443521-141198
+[2025-07-04 09:28:21] Updated status to 'completed' for OTA Order ID: ctriptest-10555574-443521-141198
+[2025-07-04 09:29:07] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10555665-443521-141198
+[2025-07-04 09:29:07] Updated status to 'completed' for OTA Order ID: ctriptest-10555665-443521-141198
+[2025-07-04 09:29:09] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10555665-443521-141198
+[2025-07-04 09:29:09] Updated status to 'completed' for OTA Order ID: ctriptest-10555665-443521-141198
+[2025-07-04 09:34:26] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10555840-443528-141198
+[2025-07-04 09:34:26] Updated status to 'completed' for OTA Order ID: ctriptest-10555840-443528-141198
+[2025-07-04 09:34:30] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10555840-443528-141198
+[2025-07-04 09:34:30] Updated status to 'completed' for OTA Order ID: ctriptest-10555840-443528-141198
+[2025-07-04 09:42:55] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10556995-443563-141198
+[2025-07-04 09:42:55] Updated status to 'completed' for OTA Order ID: ctriptest-10556995-443563-141198
+[2025-07-04 09:45:38] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10557079-443563-141198
+[2025-07-04 09:45:38] Updated status to 'completed' for OTA Order ID: ctriptest-10557079-443563-141198
+[2025-07-04 09:58:54] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10557982-443598-141198 with quantity: ALL
+[2025-07-04 09:59:05] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10557982-443598-141198 with quantity: 1
+[2025-07-04 09:59:05] Updated order ctriptest-10557982-443598-141198. New status: 'partially-completed', Used quantity: 1
+[2025-07-04 10:00:55] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10557898-443598-14119 with quantity: ALL
+[2025-07-04 10:00:55] ERROR: Order not found for OTA Order ID: ctriptest-10557898-443598-14119
+[2025-07-04 10:01:05] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10557898-443598-141198 with quantity: ALL
+[2025-07-04 10:01:05] Updated order ctriptest-10557898-443598-141198. New status: 'completed', Used quantity: 2
+[2025-07-04 10:04:19] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10558556-443619-141198 with quantity: 1
+[2025-07-04 10:04:19] Updated order ctriptest-10558556-443619-141198. New status: 'partially-completed', Used quantity: 1
+[2025-07-04 10:08:53] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10559074-443633-141198quantity=1 with quantity: ALL
+[2025-07-04 10:08:53] ERROR: Order not found for OTA Order ID: ctriptest-10559074-443633-141198quantity=1
+[2025-07-04 10:09:01] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10559074-443633-141198quantity=1 with quantity: ALL
+[2025-07-04 10:09:01] ERROR: Order not found for OTA Order ID: ctriptest-10559074-443633-141198quantity=1
+[2025-07-04 10:09:02] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10559074-443633-141198quantity=1 with quantity: ALL
+[2025-07-04 10:09:02] ERROR: Order not found for OTA Order ID: ctriptest-10559074-443633-141198quantity=1
+[2025-07-04 10:09:16] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10559074-443633-141198quantity=1 with quantity: ALL
+[2025-07-04 10:09:16] ERROR: Order not found for OTA Order ID: ctriptest-10559074-443633-141198quantity=1
+[2025-07-04 10:09:18] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10559074-443633-141198quantity=1 with quantity: ALL
+[2025-07-04 10:09:18] ERROR: Order not found for OTA Order ID: ctriptest-10559074-443633-141198quantity=1
+[2025-07-04 10:10:02] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10559074-443633-141198quantity=1 with quantity: ALL
+[2025-07-04 10:10:02] ERROR: Order not found for OTA Order ID: ctriptest-10559074-443633-141198quantity=1
+[2025-07-04 10:13:04] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10559074-443633-141198 with quantity: 1
+[2025-07-04 10:13:04] Updated order ctriptest-10559074-443633-141198. New status: 'partially-completed', Used quantity: 1
+[2025-07-04 10:21:39] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10560068-443668-141198 with quantity: 1
+[2025-07-04 10:21:39] Updated order ctriptest-10560068-443668-141198. New status: 'partially-completed', Used quantity: 1
+[2025-07-04 10:32:21] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10560474-443682-141198 with quantity: 1
+[2025-07-04 10:32:21] Updated order ctriptest-10560474-443682-141198. New status: 'partially-completed', Used quantity: 1
+[2025-07-04 10:38:45] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10560992-443696-141198 with quantity: 1
+[2025-07-04 10:38:45] Updated order ctriptest-10560992-443696-141198. New status: 'partially-completed', Used quantity: 1
+[2025-07-04 10:39:07] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10560908-443696-141198 with quantity: ALL
+[2025-07-04 10:39:07] Updated order ctriptest-10560908-443696-141198. New status: 'completed', Used quantity: 2
+[2025-07-04 10:56:16] Attempting to trigger ConsumedNotice for OTA Order ID: ctriptest-10561251-443703-141198 with quantity: 1

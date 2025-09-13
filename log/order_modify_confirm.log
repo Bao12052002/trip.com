@@ -1,0 +1,11 @@
+[2025-05-14 22:05:32] OrderModifyConfirm response: 
+[2025-05-14 22:11:50] OrderModifyConfirm response: 
+[2025-05-14 22:22:09] OrderModifyConfirm response:
+HTTP Code: 0
+Curl Error: Could not resolve host: openapi.trip.com
+Response: 
+    [2025-05-19 15:19:12] OrderModifyConfirm response:
+HTTP Code: 0
+Curl Error: Could not resolve host: openapi.trip.com
+Response: 
+ 

@@ -1,0 +1,53 @@
+[2025-07-04 11:47:20] --- TripNotifier constructed ---
+[2025-07-04 11:47:21] --- TripNotifier constructed ---
+[2025-07-04 11:48:14] --- TripNotifier constructed ---
+[2025-07-04 11:53:02] --- TripNotifier constructed ---
+[2025-07-04 11:53:29] --- TripNotifier constructed ---
+[2025-07-04 11:53:29] Attempting to send ConsumedNotice for otaOrderId: ctriptest-10563841-443773-141198
+[2025-07-04 11:53:29] Executing private send method for service: 'OrderConsumedNotice' to URL: 'https://ttdopen.ctrip.com/api/order/notice.do'
+[2025-07-04 11:53:30] cURL request for 'OrderConsumedNotice' executed without fatal errors.
+[2025-07-04 11:53:30] Finished sending ConsumedNotice for otaOrderId: ctriptest-10563841-443773-141198
+[2025-07-04 12:13:02] --- TripNotifier constructed ---
+[2025-07-04 12:13:02] Attempting to send ConsumedNotice for otaOrderId: ctriptest-10564541-443794-141198
+[2025-07-04 12:13:02] Executing private send method for service: 'OrderConsumedNotice' to URL: 'https://ttdopen.ctrip.com/api/order/notice.do'
+[2025-07-04 12:13:02] cURL request for 'OrderConsumedNotice' executed without fatal errors.
+[2025-07-04 12:13:02] Finished sending ConsumedNotice for otaOrderId: ctriptest-10564541-443794-141198
+[2025-07-04 12:13:16] --- TripNotifier constructed ---
+[2025-07-04 12:13:16] Attempting to send ConsumedNotice for otaOrderId: ctriptest-10564541-443794-141198
+[2025-07-04 12:13:16] Executing private send method for service: 'OrderConsumedNotice' to URL: 'https://ttdopen.ctrip.com/api/order/notice.do'
+[2025-07-04 12:13:16] cURL request for 'OrderConsumedNotice' executed without fatal errors.
+[2025-07-04 12:13:16] Finished sending ConsumedNotice for otaOrderId: ctriptest-10564541-443794-141198
+[2025-07-04 12:13:32] --- TripNotifier constructed ---
+[2025-07-04 12:13:51] --- TripNotifier constructed ---
+[2025-07-04 12:13:53] --- TripNotifier constructed ---
+[2025-07-04 12:13:53] Attempting to send ConsumedNotice for otaOrderId: ctriptest-10564457-443794-141198
+[2025-07-04 12:13:53] Executing private send method for service: 'OrderConsumedNotice' to URL: 'https://ttdopen.ctrip.com/api/order/notice.do'
+[2025-07-04 12:13:55] cURL request for 'OrderConsumedNotice' executed without fatal errors.
+[2025-07-04 12:13:55] Finished sending ConsumedNotice for otaOrderId: ctriptest-10564457-443794-141198
+[2025-07-04 12:19:31] --- TripNotifier constructed ---
+[2025-07-04 12:20:06] --- TripNotifier constructed ---
+[2025-07-04 12:20:57] --- TripNotifier constructed ---
+[2025-07-04 12:20:57] Attempting to send ConsumedNotice for otaOrderId: ctriptest-10564975-443808-141198
+[2025-07-04 12:20:57] Executing private send method for service: 'OrderConsumedNotice' to URL: 'https://ttdopen.ctrip.com/api/order/notice.do'
+[2025-07-04 12:20:58] cURL request for 'OrderConsumedNotice' executed without fatal errors.
+[2025-07-04 12:20:58] Finished sending ConsumedNotice for otaOrderId: ctriptest-10564975-443808-141198
+[2025-07-04 12:24:02] --- TripNotifier constructed ---
+[2025-07-04 12:24:02] Attempting to send ConsumedNotice for otaOrderId: ctriptest-10565234-443815-141198
+[2025-07-04 12:24:02] Executing private send method for service: 'OrderConsumedNotice' to URL: 'https://ttdopen.ctrip.com/api/order/notice.do'
+[2025-07-04 12:24:03] cURL request for 'OrderConsumedNotice' executed without fatal errors.
+[2025-07-04 12:24:03] Finished sending ConsumedNotice for otaOrderId: ctriptest-10565234-443815-141198
+[2025-07-04 13:06:42] --- TripNotifier constructed ---
+[2025-07-04 13:06:42] Attempting to send ConsumedNotice for otaOrderId: ctriptest-10566235-443850-141198
+[2025-07-04 13:06:42] Executing private send method for service: 'OrderConsumedNotice' to URL: 'https://ttdopen.ctrip.com/api/order/notice.do'
+[2025-07-04 13:06:43] cURL request for 'OrderConsumedNotice' executed without fatal errors.
+[2025-07-04 13:06:43] Finished sending ConsumedNotice for otaOrderId: ctriptest-10566235-443850-141198
+[2025-07-04 13:14:17] --- TripNotifier constructed ---
+[2025-07-04 13:14:17] Attempting to send ConsumedNotice for otaOrderId: ctriptest-10566235-443850-141198
+[2025-07-04 13:14:17] Executing private send method for service: 'OrderConsumedNotice' to URL: 'https://ttdopen.ctrip.com/api/order/notice.do'
+[2025-07-04 13:14:18] cURL request for 'OrderConsumedNotice' executed without fatal errors.
+[2025-07-04 13:14:18] Finished sending ConsumedNotice for otaOrderId: ctriptest-10566235-443850-141198
+[2025-07-04 13:27:06] --- TripNotifier constructed ---
+[2025-07-04 13:27:06] Attempting to send ConsumedNotice for otaOrderId: ctriptest-10567278-443885-141198
+[2025-07-04 13:27:06] Executing private send method for service: 'OrderConsumedNotice' to URL: 'https://ttdopen.ctrip.com/api/order/notice.do'
+[2025-07-04 13:27:07] cURL request for 'OrderConsumedNotice' executed without fatal errors.
+[2025-07-04 13:27:07] Finished sending ConsumedNotice for otaOrderId: ctriptest-10567278-443885-141198

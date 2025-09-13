@@ -1,0 +1,58 @@
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Cipher text length: 2912
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Key length: 16, IV length: 16
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Base64 decoded length: 2184
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] WARNING: Decoded data length is not multiple of 16: 2184
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] ERROR: OpenSSL decryption failed - error:1C800064:Provider routines::bad decrypt
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] TRYING: Custom hex decoding method
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] ERROR: Hex decoding failed - Invalid hex characters in string
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] TRYING: Direct decryption without decoding
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] ERROR: All decryption methods failed
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Cipher text length: 2912
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Key length: 16, IV length: 16
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Base64 decoded length: 2184
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] WARNING: Decoded data length is not multiple of 16: 2184
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] ERROR: OpenSSL decryption failed - error:03000082:digital envelope routines::invalid key length
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] TRYING: Custom hex decoding method
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] ERROR: Hex decoding failed - Invalid hex characters in string
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] TRYING: Direct decryption without decoding
+[26-Jun-2025 16:05:11 Asia/Ho_Chi_Minh] ERROR: All decryption methods failed
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Cipher text length: 2912
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Key length: 16, IV length: 16
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Base64 decoded length: 2184
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] WARNING: Decoded data length is not multiple of 16: 2184
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: OpenSSL decryption failed - error:1C800064:Provider routines::bad decrypt
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] TRYING: Custom hex decoding method
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: Hex decoding failed - Invalid hex characters in string
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] TRYING: Direct decryption without decoding
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: All decryption methods failed
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Cipher text length: 2912
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Key length: 16, IV length: 16
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Base64 decoded length: 2184
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] WARNING: Decoded data length is not multiple of 16: 2184
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: OpenSSL decryption failed - error:1C800064:Provider routines::bad decrypt
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] TRYING: Custom hex decoding method
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: Hex decoding failed - Invalid hex characters in string
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] TRYING: Direct decryption without decoding
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: All decryption methods failed
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Cipher text length: 2912
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Key length: 16, IV length: 16
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Base64 decoded length: 2184
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] WARNING: Decoded data length is not multiple of 16: 2184
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: OpenSSL decryption failed - error:03000082:digital envelope routines::invalid key length
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] TRYING: Custom hex decoding method
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: Hex decoding failed - Invalid hex characters in string
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] TRYING: Direct decryption without decoding
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: All decryption methods failed
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Cipher text length: 2912
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Key length: 16, IV length: 16
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] DECRYPT DEBUG - Base64 decoded length: 2184
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] WARNING: Decoded data length is not multiple of 16: 2184
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: OpenSSL decryption failed - error:03000082:digital envelope routines::invalid key length
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] TRYING: Custom hex decoding method
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: Hex decoding failed - Invalid hex characters in string
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] TRYING: Direct decryption without decoding
+[26-Jun-2025 16:05:12 Asia/Ho_Chi_Minh] ERROR: All decryption methods failed
+[26-Jun-2025 16:05:18 Asia/Ho_Chi_Minh] WARNING: Base64 decoding failed. Trying custom decoding method based on documentation's Java example.
+[26-Jun-2025 16:05:18 Asia/Ho_Chi_Minh] INFO: Decrypted successfully using CUSTOM method.
+[26-Jun-2025 16:05:18 Asia/Ho_Chi_Minh] WARNING: Base64 decoding failed. Trying custom decoding method based on documentation's Java example.
+[26-Jun-2025 16:05:18 Asia/Ho_Chi_Minh] INFO: Decrypted successfully using CUSTOM method.
